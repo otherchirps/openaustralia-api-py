@@ -13,4 +13,5 @@ You can get the code here:
 
 https://bitbucket.org/otherchirps/openaustralia-api-py
 
-
+.. image:: https://drone.io/bitbucket.org/otherchirps/openaustralia-api-py/status.png
+  :target: https://drone.io/bitbucket.org/otherchirps/openaustralia-api-py/latest
